@@ -1,0 +1,14 @@
+{
+  "name": "compressor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "compress-images": "^2.0.5",
+    "gifsicle": "5.2.1",
+    "pngquant-bin": "6.0.1"
+  }
+}
